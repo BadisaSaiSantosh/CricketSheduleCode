@@ -115,3 +115,12 @@ public class MatchSched {
         }
     }
 }
+
+
+// ..................output................
+// [India Vs Africa, India Vs England, India Vs Srilanka, India Vs Pakistan, Africa Vs England, Africa Vs Srilanka, Africa Vs Pakistan, England Vs Srilanka, England Vs Pakistan, Srilanka Vs Pakistan]India: Total Matches Played: 4, Won: 2, Lost: 2, Points: 6
+// Africa: Total Matches Played: 4, Won: 3, Lost: 1, Points: 7
+// England: Total Matches Played: 4, Won: 2, Lost: 2, Points: 6
+// Srilanka: Total Matches Played: 4, Won: 1, Lost: 3, Points: 5
+// Pakistan: Total Matches Played: 4, Won: 2, Lost: 2, Points: 6
+
